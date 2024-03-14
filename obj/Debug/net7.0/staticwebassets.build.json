@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "q9alRjjNZoHwVc4EZlHOqmskvR0jtK2/xvZucisNyB0=",
+  "Source": "hang-server",
+  "BasePath": "_content/hang-server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
